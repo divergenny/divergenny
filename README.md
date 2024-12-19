@@ -1,48 +1,63 @@
-# 💫 Hello👋 my name is Vlad and I am Java Developer
+![header](https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&text=Hello,%20my%20name%20is%20Vlad%20&fontSize=70&textBg=false&section=header&desc=Welcome%20to%20my%20GitHub%20profile%20😊&descAlign=76&descAlignY=60&fontAlignY=37&animation=twinkling&reversal=true)
 
-👨🏻‍🎓 Master degree <br> 🏓 I play table tennis in my free time <br>📚 I am learning Spring Boot and developing as a Java Developer<br>
-
-I actively study and use: Java 8-20, PostgreSQL, jenkins, docker, spring (boot, cloud, security, data),
-a little rabbitmq, in-depth maven, postman, gradle, rest and everything that is necessary in the Java development industry. 
-<br>
-A large number of theoretical, practical and test tasks were completed during the training process.
-You can view the main projects on my GitHub account.
+👨🏻‍🎓 Master's Degree in Software Engineering <br> 
+🏓 First places in table tennis competitions <br>
+📚 In my free time, I study new technologies, solve algorithmic problems and spend time with my family <br>
 
 
-# ⚙️ Tools
+# <img src="https://emojis.slackmojis.com/emojis/images/1643514467/4500/xcode.png?1643514467" width="30" loading="lazy"/> Projects:
+<a href="https://github.com/divergenny/sandbox_jan2022"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=divergenny&repo=sandbox_jan2022&theme=default&hide_border=false&show_icons=true&icon_color=59636E" alt="sandbox_jan2022"></a>
+<a href="https://github.com/divergenny/job4j_tracker"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=divergenny&repo=job4j_tracker&theme=default&hide_border=false&show_icons=true&icon_color=59636E" alt="job4j_tracker"></a>
+<a href="https://github.com/divergenny/job4j_grabber"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=divergenny&repo=job4j_grabber&theme=default&hide_border=false&show_icons=true&icon_color=59636E" alt="job4j_grabber"></a>
+<a href="https://github.com/divergenny/job4j_articles"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=divergenny&repo=job4j_articles&theme=default&hide_border=false&show_icons=true&icon_color=59636E" alt="job4j_articles"></a>
+<a href="https://github.com/divergenny/job4j_design"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=divergenny&repo=job4j_design&theme=default&hide_border=false&show_icons=true&icon_color=59636E" alt="job4j_design"></a>
+<a href="https://github.com/divergenny/job4j_clean_code_lsp"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=divergenny&repo=job4j_clean_code_lsp&theme=default&hide_border=false&show_icons=true&icon_color=59636E" alt="job4j_clean_code_lsp"></a>
 
-    Maven/Gradle
-    jUnit
-    Git
-    IntelliJ Idea/NetBeans
-    Postman
-    Сheckstyle, JaCoCo
-    Travis CI/GitHub Actions
-    Heroku
+# ⚙️ Technology stack:
+
+* **Java:** 8-17 SE, EE (part), Java Core, OOP, SOLID, TDD, KISS, DRY, YAGNI, GoF
+* **Spring** (Core, Boot, MVC, WEB (Rest), Security)
+* **Spring database layer:** Spring Data JPA, JPQL, JPA Named Queries,
+Hibernate, HQL, jdbcTemplate, JDBC, Liquibase, FlyWay
+* **continuous integration (CI):** Jenkins, Travis CI (Codecov.io, JaCoCo)
+* **continuous delivery (CD):** Docker, Docker Compose
+* **build:** Maven, Gradle
+* **projects methods:** Agile, Scrum, Kanban
+* **brokers:** Kafka, RabbitMQ
+* **database:** PostgreSQL, H2, HQLDB, Oracle, PL/SQL
+* **front layer:** Thymeleaf, JS, Bootstrap
+* **test:** Mockito, JUnit 5, AssertJ, JUnit 4, TestNG, Hamcrest
+* **log:** Log4j, Slf4j
+* **utils:** pgAdmin, Postman, curl
+* **other:** Jsoup, Git, CheckStyle, Telegram Bot, Lombok
+* **OS:** Windows, Ubuntu (Linux)
 
 
-## 🌐 Social network:
-[![Telegram](https://img.shields.io/badge/-Telegram-red?color=blue&logo=telegram&logoColor=)](https://t.me/)
+# <img src="https://emojis.slackmojis.com/emojis/images/1643514069/257/github.png?1643514069" width="40"/> GitHub Statistics:
+<details>
+  <summary> 🔥 GitHub Streak </summary>
 
-# 💻 Technology stack:
-![Java](https://img.shields.io/badge/Java_Core-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white)  ![Spring](https://img.shields.io/badge/Spring-%236DB33F.svg?style=plastic&logo=spring&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-%230DB33F.svg?style=plastic&logo=springboot&logoColor=white) ![Spring Security](https://img.shields.io/badge/Spring_Security-%230DB30F.svg?style=plastic&logo=springsecurity&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=plastic&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white) ![OracleDB](https://img.shields.io/badge/OracleDB-F80000?style=plastic&logo=oracle&logoColor=white)  ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white)
-![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=plastic&logo=swagger&logoColor=white)  ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white) ![Apache](https://img.shields.io/badge/Apache-%23D42029.svg?style=plastic&logo=apache&logoColor=white)  ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=plastic&logo=Apache%20Maven&logoColor=white) ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=plastic&logo=Gradle&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white)
-![Heroku](https://img.shields.io/badge/Heroku-%23430098.svg?style=plastic&logo=heroku&logoColor=white) ![AWS](https://img.shields.io/badge/Amazon_Web_Services-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-%230072C6.svg?style=plastic&logo=azure-devops&logoColor=white)  ![JWT](https://img.shields.io/badge/JSON_Web_Token-black?style=plastic&logo=JSON%20web%20tokens)  ![Apache Ant](https://img.shields.io/badge/Apache%20Ant-A81C7D?style=plastic&logo=Apache%20Ant&logoColor=white)  ![Jenkins](https://img.shields.io/badge/Jenkins-%232C5263.svg?style=plastic&logo=jenkins&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/Adobe_Photoshop-%2331A8FF.svg?style=plastic&logo=adobephotoshop&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML_5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS_3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript_or_LiveScript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=plastic&logo=bootstrap&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=plastic&logo=SASS&logoColor=white) ![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?style=plastic&logo=angular&logoColor=white)
+[![GitHub Streak](https://streak-stats.demolab.com?user=divergenny&short_numbers=true&date_format=n%2Fj%5B%2FY%5D&mode=weekly)](https://git.io/streak-stats)
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black) ![Windows](https://img.shields.io/badge/Windows-%2331A8FF.svg?style=plastic&logo=Windows&logoColor=white)  
-![Git](https://img.shields.io/badge/Git-%234C5223.svg?style=plastic&logo=git&logoColor=кув) ![GitHub](https://img.shields.io/badge/GitHub-%232C5263.svg?style=plastic&logo=github&logoColor=white)  
-![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=plastic&logo=jira&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=plastic&logo=Trello&logoColor=white)
+</details>
 
-# 📊 Statistics on GitHub:
+<details>
+  <summary> 📊 GitHub Stats </summary>
+
 ![](https://github-readme-stats.vercel.app/api?username=divergenny&theme=swift&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=divergenny&theme=swift&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=divergenny&theme=swift&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+ 
+</details>
 
-### 🔝 Top Contributed Repo
+<details>
+  <summary> 🔝 Top Contributed Repo </summary>
+
 ![](https://github-contributor-stats.vercel.app/api?username=divergenny&limit=5&theme=matrix&combine_all_yearly_contributions=true)
 
+</details>
+
 ---
-[![](https://visitcount.itsvg.in/api?id=divergenny&icon=7&color=12)](https://visitcount.itsvg.in)
+## 🌐 Contacts:
+📧 [divergenny@gmail.com](mailto:divergenny@gmail.com)
+
+
