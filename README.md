@@ -6,12 +6,12 @@
 
 
 # <img src="https://emojis.slackmojis.com/emojis/images/1643514467/4500/xcode.png?1643514467" width="30" loading="lazy"/> Projects:
-<a href="https://github.com/divergenny/sandbox_jan2022"><img width="330" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=divergenny&repo=sandbox_jan2022&theme=default&hide_border=false&show_icons=true&icon_color=59636E" alt="sandbox_jan2022"></a>
-<a href="https://github.com/divergenny/job4j_tracker"><img width="330" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=divergenny&repo=job4j_tracker&theme=default&hide_border=false&show_icons=true&icon_color=59636E" alt="job4j_tracker"></a>
-<a href="https://github.com/divergenny/job4j_grabber"><img width="330" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=divergenny&repo=job4j_grabber&theme=default&hide_border=false&show_icons=true&icon_color=59636E" alt="job4j_grabber"></a>
-<a href="https://github.com/divergenny/job4j_articles"><img width="330" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=divergenny&repo=job4j_articles&theme=default&hide_border=false&show_icons=true&icon_color=59636E" alt="job4j_articles"></a>
-<a href="https://github.com/divergenny/job4j_design"><img width="330" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=divergenny&repo=job4j_design&theme=default&hide_border=false&show_icons=true&icon_color=59636E" alt="job4j_design"></a>
-<a href="https://github.com/divergenny/job4j_clean_code_lsp"><img width="330" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=divergenny&repo=job4j_clean_code_lsp&theme=default&hide_border=false&show_icons=true&icon_color=59636E" alt="job4j_clean_code_lsp"></a>
+<a href="https://github.com/divergenny/sandbox_jan2022"><img width="330" src="https://github-stats-extended.vercel.app/api/pin/?username=divergenny&repo=sandbox_jan2022&theme=default&hide_border=false&show_icons=true&icon_color=59636E&description_lines_count=3" alt="sandbox_jan2022"></a>
+<a href="https://github.com/divergenny/job4j_tracker"><img width="330" src="https://github-stats-extended.vercel.app/api/pin/?username=divergenny&repo=job4j_tracker&theme=default&hide_border=false&show_icons=true&icon_color=59636E&description_lines_count=3" alt="job4j_tracker"></a>
+<a href="https://github.com/divergenny/job4j_grabber"><img width="330" src="https://github-stats-extended.vercel.app/api/pin/?username=divergenny&repo=job4j_grabber&theme=default&hide_border=false&show_icons=true&icon_color=59636E&description_lines_count=3" alt="job4j_grabber"></a>
+<a href="https://github.com/divergenny/job4j_articles"><img width="330" src="https://github-stats-extended.vercel.app/api/pin/?username=divergenny&repo=job4j_articles&theme=default&hide_border=false&show_icons=true&icon_color=59636E&description_lines_count=3" alt="job4j_articles"></a>
+<a href="https://github.com/divergenny/job4j_design"><img width="330" src="https://github-stats-extended.vercel.app/api/pin/?username=divergenny&repo=job4j_design&theme=default&hide_border=false&show_icons=true&icon_color=59636E&description_lines_count=3" alt="job4j_design"></a>
+<a href="https://github.com/divergenny/job4j_clean_code_lsp"><img width="330" src="https://github-stats-extended.vercel.app/api/pin/?username=divergenny&repo=job4j_clean_code_lsp&theme=default&hide_border=false&show_icons=true&icon_color=59636E&description_lines_count=3" alt="job4j_clean_code_lsp"></a>
 
 # ⚙️ Technology stack:
 
@@ -44,20 +44,22 @@ Hibernate, HQL, jdbcTemplate, JDBC, Liquibase, FlyWay
 <details>
   <summary> 📊 GitHub Stats </summary>
 
-![](https://github-readme-stats.vercel.app/api?username=divergenny&theme=swift&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=divergenny&theme=swift&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-stats-extended.vercel.app/api?username=divergenny&theme=swift&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-stats-extended.vercel.app/api/top-langs/?username=divergenny&theme=swift&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
  
 </details>
 
 <details>
   <summary> 🔝 Top Contributed Repo </summary>
 
-![](https://github-contributor-stats.vercel.app/api?username=divergenny&limit=5&theme=matrix&combine_all_yearly_contributions=true)
+![](https://github-contribution-card.vercel.app/api?username=divergenny&limit=5&theme=matrix&combine_all_yearly_contributions=true)
 
 </details>
 
 ---
 ## 🌐 Contacts:
-📧 [divergenny@gmail.com](mailto:divergenny@gmail.com)
+📧 [divergenny@gmail.com](mailto:divergenny@gmail.com) <br>
+💼 [LinkedIn](https://www.linkedin.com/in/divergenny/) <br>
+✈️ [Telegram](https://t.me/DevOnJava)
 
 
