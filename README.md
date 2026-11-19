@@ -15,25 +15,27 @@
 
 # ⚙️ Technology stack:
 
-* **Java:** 8-17 SE, EE (part), Java Core, OOP, SOLID, TDD, KISS, DRY, YAGNI, GoF
-* **Spring** (Core, Boot, MVC, WEB (Rest), Security)
+* **Java:** 8-21-27 SE, EE (part), Java Core, OOP, SOLID, TDD, KISS, DRY, YAGNI, GoF
+* **Spring** (Core, Boot, MVC, WEB (Rest), Security, Cloud, Cache, AOP)
 * **Spring database layer:** Spring Data JPA, JPQL, JPA Named Queries,
 Hibernate, HQL, jdbcTemplate, JDBC, Liquibase, FlyWay
-* **continuous integration (CI):** Jenkins, Travis CI (Codecov.io, JaCoCo)
-* **continuous delivery (CD):** Docker, Docker Compose
+* **architecture & integration:** Microservices, Modular Monolith, REST, OpenAPI (Swagger), Eureka, JWT / WSO2
+* **continuous integration (CI):** Jenkins, Travis CI (Codecov.io, JaCoCo), GitHub Actions
+* **continuous delivery (CD):** Docker, Docker Compose, Podman
 * **build:** Maven, Gradle
-* **projects methods:** Agile, Scrum, Kanban
+* **projects methods:** Agile, Scrum, Kanban, Jira, code review, task decomposition and estimation, technical documentation
 * **brokers:** Kafka, RabbitMQ
-* **database:** PostgreSQL, H2, HQLDB, Oracle, PL/SQL
+* **database:** PostgreSQL, H2, HQLDB, Oracle, SQL, PL/SQL, MariaDB, MySQL, Redis (Redisson)
 * **front layer:** Thymeleaf, JS, Bootstrap
-* **test:** Mockito, JUnit 5, AssertJ, JUnit 4, TestNG, Hamcrest
-* **log:** Log4j, Slf4j
+* **test:** Mockito, JUnit 5, AssertJ, JUnit 4, TestNG, Hamcrest, WireMock, Spring Boot Test, Testcontainers
+* **log:** Log4j, Slf4j, ELK (Elasticsearch, Kibana), Splunk
 * **utils:** pgAdmin, Postman, curl
-* **other:** Jsoup, Git, CheckStyle, Telegram Bot, Lombok
-* **OS:** Windows, Ubuntu (Linux)
+* **other:** Jsoup, Git (GitLab, GitHub), SVN, CheckStyle, Telegram Bot, Lombok, MapStruct, MinIO
+* **OS:** Windows, Ubuntu (Linux), Astra Linux
 
 
 # <img src="https://emojis.slackmojis.com/emojis/images/1643514069/257/github.png?1643514069" width="40"/> GitHub Statistics:
+
 <details>
   <summary> 🔥 GitHub Streak </summary>
 
@@ -61,5 +63,9 @@ Hibernate, HQL, jdbcTemplate, JDBC, Liquibase, FlyWay
 📧 [divergenny@gmail.com](mailto:divergenny@gmail.com) <br>
 💼 [LinkedIn](https://www.linkedin.com/in/divergenny/) <br>
 ✈️ [Telegram](https://t.me/DevOnJava)
+
+
+![Profile views](https://komarev.com/ghpvc/?username=divergenny)
+
 
 
